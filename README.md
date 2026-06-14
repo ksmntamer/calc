@@ -1,7 +1,7 @@
 ﻿# calc
 ##  WORK LOG - Kişisel Mesai Takip & Hesaplama Sistemi
 
-MesaiMatik, çalışanların mesai saatlerini yasal standartlara uygun olarak hesaplayan ve tüm verileri tamamen yerel (local) olarak kullanıcının kendi tarayıcısında saklayan tek sayfalık (Single Page Application) güvenli bir takip portalıdır.
+WORK LOG , çalışanların mesai saatlerini yasal standartlara uygun olarak hesaplayan ve tüm verileri tamamen yerel (local) olarak kullanıcının kendi tarayıcısında saklayan tek sayfalık (Single Page Application) güvenli bir takip portalıdır.
 
 Herhangi bir uzak sunucuya veya bulut servisine bağımlılığı olmadığı için internet bağlantısı olmadan da çalışabilir ve verileriniz üçüncü şahıslarla asla paylaşılmaz.
 
