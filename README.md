@@ -1,4 +1,4 @@
-﻿# Calc
+﻿# WorkLOG
 ##  WORK LOG - Kişisel Mesai Takip & Hesaplama Sistemi
 
 WORK LOG , çalışanların mesai saatlerini yasal standartlara uygun olarak hesaplayan ve tüm verileri tamamen yerel (local) olarak kullanıcının kendi tarayıcısında saklayan tek sayfalık (Single Page Application) güvenli bir takip portalıdır.
